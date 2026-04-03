@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-openai
+langgraph
+pypdf
+python-multipart
+openai
+python-dotenv
+pdf2image
+pytesseract
+pillow
